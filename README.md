@@ -37,4 +37,5 @@ filtros usando WHERE e funções agregadas para vizualição expecífica de algu
 
 #OBSERVAÇÕES
 
-Dentro dos Querrys temos os comentários necessários para o entendimento de cada criação, mudança, ou vizualição do banco de dados do projeto.
+Não consegui realizar o que eu estava pretendendo. Não conswgui likar, ou mesmo dar insert nas tabelas com chave estrangeira. Tive que setar tudo para NULL para poder 
+colocar os dados. Infelizemente não há update, justamente porque não consegui usar as chaves estrangeiras. Ainda tenho muita dificuldade nisso.
