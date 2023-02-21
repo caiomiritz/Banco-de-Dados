@@ -1,0 +1,22 @@
+INSERT INTO Fazenda (Nome, Agua_dia, Ph_solo, Veneno_necessario) 
+VALUES
+  ('Nisi Nibh Lacinia Corporation',3131,6.8,'SIM'),
+  ('Amet Luctus LLC',2897,7.3,'NAO'),
+  ('Amet Corp.',4999,7.3,'NAO'),
+  ('Amet Metus Aliquam LLP',8293,6.8,'SIM'),
+  ('Aliquam Tincidunt Institute',5207,7.0,'SIM'),
+  ('Arcu Et Pede Limited',3334,7.0,'NAO'),
+  ('Duis Ac Foundation',1460,6.8,'SIM'),
+  ('Laoreet Posuere PC',2725,8.5,'SIM'),
+  ('Eu Enim LLC',2481,8.3,'NAO'),
+  ('Quis Turpis Corporation',3260,7.7,'NAO'),
+  ('Tempus Eu PC',3780,6.5,'SIM'),
+  ('Ornare PC',3307,8.1,'NAO'),
+  ('Nunc Inc.',3161,7.4,'NAO'),
+  ('Lectus Quis LLC',459,6.4,'SIM'),
+  ('A Neque LLC',398,6.5,'SIM'),
+  ('Sit Consulting',1429,6.3,'SIM'),
+  ('Donec Institute',1789,8.4,'NAO'),
+  ('Ut Aliquam Company',4906,6.2,'NAO'),
+  ('Enim Curabitur LLP',810,5.3,'NAO'),
+  ('Vivamus Euismod PC',1485,7.9,'SIM')

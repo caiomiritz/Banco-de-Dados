@@ -1,0 +1,22 @@
+INSERT INTO Agricultor (Nome, Idade, CPF, Area)
+VALUES
+  ('Dennis',36,'342.160.988-68',3130),
+  ('Roth Hopkins',39,'617.237.687-70',7132),
+  ('Buffy Cleveland',69,'952.315.722-58',8754),
+  ('Lance Mcmillan',58,'184.232.618-73',3831),
+  ('Ronan English',45,'883.631.285-85',6715),
+  ('Bevis Guthrie',29,'333.118.264-43',1153),
+  ('Darius Frank',37,'566.629.921-95',3407),
+  ('Rajah Donaldson',44,'846.824.589-06',4989),
+  ('Francis Barron',55,'025.571.724-84',4413),
+  ('Frances Higgins',61,'821.397.624-33',523),
+  ('Lysandra Allen',77,'227.316.703-62',2834),
+  ('Richard Rosa',27,'31.589.015-47',721),
+  ('Fallon Freeman',43,'392.569.953-61',6760),
+  ('Aristotle Bush',78,'611.889.721-45',1107),
+  ('Courtney Ewing',37,'316.128.717-41',6231),
+  ('Sasha Jacobs',46,'865.572.776-30',4422),
+  ('Chastity Clemons',73,'885.131.036-31',5999),
+  ('Aidan Fleming',60,'522.315.068-42',2520),
+  ('Daphne Ingram',73,'015.682.858-13',136),
+  ('Mechelle Casey',26,'219.529.964-62',9721)
