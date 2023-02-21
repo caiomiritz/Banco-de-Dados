@@ -28,12 +28,11 @@ Queries usadas:
 
 --> No Create, temos os scripts de criação de todas as tabelas, seguidas do insert dos dados de cada um delas
 
---> No Read, temos os scripts de vizualição da tabela e do sistema, variando desde a vizualização inteira de uma determinada tabela até
-filtros usando WHERE e funções agregadas para vizualição expecífica de algum ponto
+--> No Read, temos os scripts de vizualição da tabela e do sistema
 
---> No Update, temos algumas opções de mudança em algumas colunas de tabelas, ou a adição nas mesmas. 
+--> No Update, temos algumas opções de mudança em algumas colunas de tabelas, ou a adição nas mesmas. ( Não consegui realizar )
 
---> Por fim, no Delete temos o delete de alguma tabela ou coluna específica.
+--> Por fim, no Delete temos o delete das tabelas
 
 #OBSERVAÇÕES
 
